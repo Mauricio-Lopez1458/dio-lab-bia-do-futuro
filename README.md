@@ -21,7 +21,7 @@ Eu criei o agente **Plá** - o Planejador Financeiro Inteligente.
 
 ### 2. Base de Conhecimento
 
-Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alimentar seu agente:
+Utilizei os **dados mockados*** disponíveis na pasta [`data/`](./data/) para alimentar meu agente:
 
 | Arquivo | Formato | Descrição |
 |---------|---------|-----------|
@@ -30,7 +30,7 @@ Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alim
 | `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
 | `produtos_financeiros.json` | JSON | Produtos e serviços disponíveis |
 
-Você pode adaptar ou expandir esses dados conforme seu caso de uso.
+*Dados com alterações e inseridos diretamente no código.
 
 📄 **Template:** [`docs/02-base-conhecimento.md`](./docs/02-base-conhecimento.md)
 
