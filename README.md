@@ -13,7 +13,7 @@ Eu criei o agente **Plá**- o Planejador Financeiro Inteligente.
 
 - **Caso de Uso:** planejamento financeiro
 - **Persona e Tom de Voz:** o agente se comunica com linguagem simples e acessível, como se falasse a um amigo
-- **Segurança:** a prevenção a alucinações foi feitas através de Edge Cases, posteriormente inseridos no prompt principal de modo indireto.
+- **Segurança:** a prevenção a alucinações foi feita através de Edge Cases, posteriormente inseridos no prompt principal de modo indireto.
 
 📄 **Template:** [`docs/01-documentacao-agente.md`](./docs/01-documentacao-agente.md)
 
