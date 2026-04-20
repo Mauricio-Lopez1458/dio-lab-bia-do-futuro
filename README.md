@@ -4,7 +4,7 @@
 
 Projeto realizado para o Bootcamp **Bradesco GenAI & Dados** da DIO (Digital Innovation One).
 
-Eu criei o agente **Plá**- o Planejador Financeiro Inteligente.
+Eu criei o agente **Plá** - o Planejador Financeiro Inteligente.
 
 
 ---
